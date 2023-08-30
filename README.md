@@ -68,5 +68,5 @@
 
 #
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leeCodingStudio&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeCodingStudio&layout=compact&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyeongjin0706&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeongjin0706&layout=compact&theme=tokyonight)
